@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0EF58957-5FAE-4ABB-8AD7-7B594219AE10</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RWReactivePlayground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9D8B24FC-A6E8-4C12-86C9-7A1BA4F0EF2B</key>
+		<string>ssh://github.com/freshlhy/RWReactivePlayground.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RWReactivePlayground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9D8B24FC-A6E8-4C12-86C9-7A1BA4F0EF2B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/freshlhy/RWReactivePlayground.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9D8B24FC-A6E8-4C12-86C9-7A1BA4F0EF2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9D8B24FC-A6E8-4C12-86C9-7A1BA4F0EF2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RWReactivePlayground</string>
+		</dict>
+	</array>
+</dict>
+</plist>
